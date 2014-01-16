@@ -1,7 +1,9 @@
 Enigma2 Skin by Franc - MetropolisHD
 ============
 
-MetropolisHD by Franc images here http://vrane.pohrani.com/?MetropolisHD
+Images here http://vrane.pohrani.com/?MetropolisHD
+
+Supprot on http://www.satforum.me
 
 
 
